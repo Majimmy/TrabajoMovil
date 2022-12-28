@@ -1,0 +1,4 @@
+Armar el proyecto utilizando el package.json y agregar los demas archivos y carpetas presentes.
+
+El metodo para agregar usuarios es a travez de Postman.
+La forma de la consulta, se presenta en el archivo "ejemplo_ingresar_usuario_postman.png"
