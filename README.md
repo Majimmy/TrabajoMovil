@@ -16,7 +16,7 @@ Esta aplicacion montada con flutter, solicita el ingreso de un usuario, solicita
 - instalar mongo compass
 - utilizar la ruta de la base de datos default:<br>
   (mongodb://localhost:27017)
-- ver la base de datos "test"
+- ver la base de datos llamada "test"
 ## montar frontend:
 - crear proyecto de flutter. Ejemplo: <br>
 flutter create proyecto<br>
