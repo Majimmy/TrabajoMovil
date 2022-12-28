@@ -4,7 +4,7 @@
 Esta aplicacion montada con flutter, solicita el ingreso de un usuario, solicita datos para armar una estructura,
 <br>y los enviar juntos a una base de datos mongodb a travez de un backend montado con nodejs.
 
-#### Se requiere visual studio code, postman, flutter y android studio instalados.<br> Se recomienda tener tambien mongodb compass
+#### Se requiere visual studio code, docker, postman, flutter y android studio instalados.<br> Se recomienda tener tambien mongodb compass
 
 ## montar mongo data base
 - instalar docker y hacerlo funcionar
