@@ -1,5 +1,5 @@
 # TrabajoMovil: Biblioteca mini usando Flutter
-#### (Trabajo final en direcctorio "app_v1_android")<br>(nota: no se pudo subir apk generado ya que el archivo supera el limite de 25MB)<br>(para el profesor: link para ver apk generado: <https://drive.google.com/drive/u/1/folders/1fxEfxhKetUSJ-S1y9BvRACoE8zBjJILE>)
+#### (Trabajo final en direcctorio "app_v1_android")<br>(link para ver apk generado: <https://drive.google.com/drive/u/1/folders/1fxEfxhKetUSJ-S1y9BvRACoE8zBjJILE>)
 <br>
 Esta aplicacion montada con flutter, solicita el ingreso de un usuario, solicita datos para armar una estructura,
 <br>y los enviar juntos a una base de datos mongodb a travez de un backend montado con nodejs.
